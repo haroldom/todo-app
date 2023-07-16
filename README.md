@@ -9,10 +9,8 @@ Hi 👋. It's been a while since I last uploaded a complete project, and well, t
 
 Last Updates:
 * Add categories to tasks.
-* Filter by Categories.
-* Confetti effect
-* Modal effect
-* Some bugs solved
+* Responsive Design
+* Local Storage to save tasks locally.
 
 ## Built With
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
